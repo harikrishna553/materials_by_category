@@ -10,3 +10,7 @@
 |----------------|-------------------------------------------------|---------------------------------------|
 | `awesome-distributed-systems` | https://github.com/theanalyst/awesome-distributed-systems?tab=readme-ov-file | Refernce Material for Distributed Systems|
 
+# Basic Definitions
+| Title | Description |
+|----------------|-------------------------------------------------|
+| Process | It is a Program in Action|
